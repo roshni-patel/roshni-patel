@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Roshni's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshni-patel&hide=stars,issues&theme=github_dark&show_icons=true)
+![Roshni's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshni-patel&hide=stars,issues&theme=ocean_dark&show_icons=true)
 
 <!--
 **roshni-patel/roshni-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
