@@ -1,6 +1,6 @@
 ### Hi there, I'm Roshni 👋🏽
 - 😄 Pronouns: She/Her
-- 🌱 I’m currently learning TypeScript, React, and Python
+- 🌱 Currently learning: TypeScript, React, and Python
 - ⚡ Fun fact: I have a BA in psychology and neuroscience 🧠
 - 📫 How to reach me: [Email](mailto:rpatel01@wesleyan.edu) || [LinkedIn](https://www.linkedin.com/in/roshni-patel/)
 
