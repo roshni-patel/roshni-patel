@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Roshni 👋🏽
+- 😄 Pronouns: She/Her
+- 🌱 I’m currently learning TypeScript, React, and Python
+- ⚡ Fun fact: I have a BA in psychology and neuroscience 🧠
+- 📫 How to reach me: [Email](mailto:rpatel01@wesleyan.edu) || [LinkedIn](https://www.linkedin.com/in/roshni-patel/)
+
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
@@ -10,8 +15,9 @@
 </p>
 
 
-![Roshni's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshni-patel&hide=stars,issues&theme=ocean_dark&show_icons=true&count_private=true)
-
+![Roshni's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshni-patel&hide=stars,issues&theme=tokyonight&show_icons=true&count_private=true)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshni-patel&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true?)](https://github.com/roshni-patel/github-readme-stats)
+ -->
 
 <!--
 **roshni-patel/roshni-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
