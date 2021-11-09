@@ -14,7 +14,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
 </p>
 
-![Roshni's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshni-patel&hide=stars,&hide_border=true,issues&theme=tokyonight&show_icons=true&count_private=true)
+![Roshni's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshni-patel&hide=stars,issues,&hide_border=true,issues&theme=tokyonight&show_icons=true&count_private=true)
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roshni-patel&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshni-patel&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true?)](https://github.com/roshni-patel/github-readme-stats)
